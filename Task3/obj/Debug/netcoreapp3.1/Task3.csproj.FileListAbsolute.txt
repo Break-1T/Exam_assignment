@@ -1,0 +1,25 @@
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3.csprojAssemblyReference.cache
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Dialog boxes\AddItemWindow.g.cs
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Dialog boxes\FindItemWindow.g.cs
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\App.g.cs
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3_MarkupCompile.cache
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3_MarkupCompile.lref
+D:\C#\Exam\Exam_assignment\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+D:\C#\Exam\Exam_assignment\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+D:\C#\Exam\Exam_assignment\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+D:\C#\Exam\Exam_assignment\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+D:\C#\Exam\Exam_assignment\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+D:\C#\Exam\Exam_assignment\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+D:\C#\Exam\Exam_assignment\Task3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Dialog boxes\AddItemWindow.baml
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Dialog boxes\FindItemWindow.baml
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3.g.resources
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CopyComplete
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+D:\C#\Exam\Exam_assignment\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache

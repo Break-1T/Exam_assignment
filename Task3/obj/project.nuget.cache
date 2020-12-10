@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJQe7E18PEojmmvwN3HqB8oPMcXEYxw5eDJIZJCaFsT4utpysN6ymrYog0ZuZUBIOgNLOwNXrhrsroLEesA0mQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Exam\\Exam_assignment\\Task3\\Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ТарасКрупко\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
